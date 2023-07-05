@@ -1,4 +1,4 @@
-# Modelo de Power App de planilha de horas semanais
+# Modelo de Power App de TimeSheet
 
 ## Resumo
 Este aplicativo de planilha de horas é uma aplicação baseada em tablet que proporciona uma forma detalhada de criar e gerenciar planilhas de horas semanais. Com ele, você poderá registrar com precisão o tempo trabalhado, calcular horas extras, monitorar o tempo dedicado a projetos específicos e acompanhar o progresso de suas atividades ao longo da semana. Além disso, o aplicativo oferece recursos adicionais, como a geração de relatórios personalizados e a integração com outras ferramentas de produtividade, tornando-o uma solução abrangente e eficiente para o gerenciamento de horas.
