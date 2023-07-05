@@ -1,7 +1,7 @@
-# Weekly Timesheet Power App Template
+# Modelo de Power App de planilha de horas semanais
 
 # Summary
-This timesheet application is a tablet-based canvas app that gives you a way to create and manage weekly timesheets.
+Esse aplicativo de planilha de horas é um aplicativo de tela baseado em tablet que oferece uma maneira de criar e gerenciar planilhas de horas semanais.
 
 ### Abertura
 ![image](https://github.com/Iacan/TimeSheet/assets/23104019/1045fc9e-bc60-4cf0-9317-d2639dc930ae)
