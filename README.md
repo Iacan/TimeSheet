@@ -17,9 +17,3 @@ Este aplicativo de planilha de horas é uma aplicação baseada em tablet que pr
 
 ### Popup Motivo Recusa
 ![image](https://github.com/Iacan/TimeSheet/assets/23104019/873a9328-5cbc-4dbc-9ee1-9504a28ae598)
-
-
-First Header  | Second Header
-------------- | -------------
-Content Cell  | Content Cell
-Content Cell  | Content Cell
